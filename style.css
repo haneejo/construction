@@ -197,6 +197,14 @@ img{width:100%; vertical-align: top;}
             opacity: 0.4;
             border-radius: 106.5px 5px 5px 5px;}
 
+        .deco_line{position: absolute;
+            width: 632.27px;
+            height: 608.43px;
+            left: -30px;
+            top: 615px;
+            background: url(/img/Vector\ 11.png);
+        }
+
     
     .stats_wrap{}
     .stats{}
